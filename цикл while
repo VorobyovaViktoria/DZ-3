@@ -8,3 +8,20 @@ public class Main {
         while(a<5)
     }
 }
+
+
+// с выходом break
+
+public class Main {
+    public static void main(String[] args){
+String str = “no Exit”;
+
+        do {
+            System.out.println(“In progress”);
+If (str==”Exit”) break;
+        }
+        while(true)
+
+
+    }
+}
